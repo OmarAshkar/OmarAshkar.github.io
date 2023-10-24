@@ -1,0 +1,43 @@
+.title-slide h2{
+  text-align: center;
+  color: #f5bd30;
+}
+
+.title-slide {
+  background-color: #05263b;
+}
+
+
+
+	
+	
+div.left{position: relative;
+  left: 20%;
+  top: 70%
+  
+}
+
+div.right{position: relative;
+  right: 20%;
+  top: 70%
+  
+}
+
+div.middle{position: relative;
+  left: 50%;
+  right: 50%;
+  top: 70%
+  
+}
+
+p.thanks{
+  font-size: 100em;
+  position: relative;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+}
+
+ul li{
+ font-size:18px;
+}
